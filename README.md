@@ -1,26 +1,27 @@
 # Hi I'm Diana 👋
 📍*Barcelona, Spain*
 
-Aspiring data analyst with a healthcare background, interested in turning health data into meaningful insights.
+Aspiring data analyst with a fraud investigation background, interested in turning transaction and behavior data into risk insights.
 
 
 ### About me
 
-I'm starting my career in data analytics, building on a degree in **physiotherapy and sport biology**. I want to work where data and medicine meet: health analytics, clinical data, patient outcomes, or bioinformatics.
+I'm starting my career in data analytics, building on several years of hands-on fraud investigation in trust & safety and customer operations. I want to work where data and risk meet: fraud analytics, transaction monitoring, payment risk, or trust & safety. I'm currently training in SQL, Python and Power BI through a data analytics bootcamp.
 
 ### Skills
-- 🩺 **Healthcare background**: understanding how patients, treatments and outcomes work, so I know what the numbers actually mean
-- 📊 **CRM**: working with customer records, segmentation and keeping data clean and consistent
+- 🕵️ **Fraud investigation**: spotting suspicious patterns (referral fraud, off-platform deals, chargebacks, account takeovers, coupon abuse), gathering evidence and escalating cases
+- 📊 **CRM and data handling**: working with customer records and multiple client datasets, keeping data clean and consistent
 - 🧪 **Testing / QA**: finding what breaks, documenting it clearly, thinking in edge cases
 - ✍️ **Writing and storytelling**: explaining complex findings in plain language
 
 ### Projects
-- [Soon](link)
+- Fraud detection analysis (SQL + Python + Power BI): coming soon
 
 
 ### What I want to explore
-- Clinical and public health datasets: outcomes, trends, patient flow
-- Rehabilitation and physiotherapy data: recovery tracking, treatment effectiveness
+- Fraud and anomaly detection on public transaction datasets
+- Risk indicators and scoring: what separates normal behavior from suspicious behavior
+- Dashboards that help investigation teams prioritize cases
 
 ### Tools
 
